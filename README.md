@@ -31,7 +31,7 @@ cd webapp
 cd scripts
 ```
 #### First Edit your `add_hashtags_to_categories.py` file.
-You can change `new_category` for whatever you want eg. Tech. <br>
+You can change `new_category` for whatever you want eg. Slim. <br>
 Same with`basic_hashtags`.
 ```python
 
